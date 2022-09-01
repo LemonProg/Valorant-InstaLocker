@@ -36,8 +36,8 @@ Download the Installer here :
 - Select "English" or "French"
 - Click on "Browse" if you want to change the default path.
 ![Installation p2](https://online-hoster.000webhostapp.com/Images/../uploads/16619871265700025141914804407.png)
-- Check desktop shortcut (optional)
 ![Installation p2](https://online-hoster.000webhostapp.com/Images/../uploads/16619867173455652151781333221.png)
+- Check desktop shortcut (optional)
 - Then click the Install Button !
 
 <h2> Good Job, Valorant InstaLocker is now for you 👏🥳
