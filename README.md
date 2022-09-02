@@ -83,7 +83,6 @@ If you download the python version (gui.py) you can change the click sound of th
 - Then replace the older by paste it in the variable "path"
 - That will work now !
 - But, when you click the button if you have a latency with the audio you shouldn't use the website and just indicate you file path in the variable 
-(sorry my website is a ugly but it work so...) 
  
 ## Authors
 
