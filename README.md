@@ -12,6 +12,7 @@ Valorant InstaLocker is a python scipt to instantly lock your main or favorite a
 
 Windows will maybe tell you the file is supscious, to fix that you just have to :
 
+- Disable Windows Defenders or/and any anti-virus like McAfee, AVG, Avast...
 - Open the app
 - Click on "More Info"
 
@@ -49,9 +50,6 @@ Download the Installer here :
 
 <h2> Good Job, Valorant InstaLocker is now for you 👏🥳
 
-
-
-
 ## How to Run it ?
 
 To run Valorant InstaLocker, you just have to search it in the windows menu or : 
@@ -71,4 +69,4 @@ To run Valorant InstaLocker, you just have to search it in the windows menu or :
 ### That's all !
 ## Authors
 
-- [@LEMON シ](https://github.com/TheFrenchRageur)
+- [@LEMON シ](https://github.com/LemonProg)
