@@ -13,7 +13,7 @@ Agents = [
 
 agentChoose = "empty"
 
-
+# Position of 1440x1080 Agents/Confirm Button
 def StretchedAgentPick():
     lockbtn = 724, 819
     
@@ -134,6 +134,7 @@ def StretchedAgentPick():
         pyautogui.moveTo(lockbtn)
         pyautogui.click()
 
+# Position of 1920x1080 Agents/Confirm Button
 def NotStretchedAgentPick(): 
         lockbtn = 930, 810
         
@@ -254,7 +255,7 @@ def NotStretchedAgentPick():
             pyautogui.moveTo(lockbtn)
             pyautogui.click()
 
-
+# GUI, you don't have to touch it
 class Ui_MainWindow(object):
     
     def setupUi(self, MainWindow):
@@ -410,8 +411,7 @@ class Ui_MainWindow(object):
         self.f2Label.setText(_translate("MainWindow", "<html><head/><body><p>Press <span style=\" font-weight:600;\">F2</span> in game / Hold <span style=\" font-weight:600;\">F3</span> to exit. </p></body></html>"))
         self.player = QMediaPlayer()
         
-        
-     
+    # When i click the 'OK' Button
     def AgentButtonPressed(self):
         self.ClickSound()
         global agentChoose 
@@ -447,14 +447,15 @@ class Ui_MainWindow(object):
                                 instaLoop = False
                                 print("Exit")
                         
-    
+    # When i click the 1920x1080 Button
     def ifnotStretched(self):
         self.ClickSound()
         global notStretched
         global Stretched
         notStretched = True
         Stretched = False
-            
+    
+    # When i click the 1440x1080 Button
     def ifStretched(self):
         self.ClickSound()
         global Stretched
@@ -462,9 +463,18 @@ class Ui_MainWindow(object):
         Stretched = True
         notStretched = False
 
-    
-    
+    # The Function To play "UwU" when you click one any button in the app
     def ClickSound(self):
+        ''' 
+            If you want to change the sound, 
+            - download any sound in "MP3"
+            - Use my website to upload your sound : https://online-hoster.000webhostapp.com/ (i wrote in french but i will explain in english here)
+            - Click on "Videos", add your sound, then click on "Envoyer"
+            - Press "Copie" to copy it (you can lisen it as well)
+            - Then replace the older by paste it in the variable "path" just under
+            - That will work now !
+            (sorry my website is a ugly but it work so...) 
+        '''
         path = "https://online-hoster.000webhostapp.com/Images/../uploads/166197982313474472601852417475.mp3"
         url = QUrl.fromLocalFile(path)
         content = QMediaContent(url)
