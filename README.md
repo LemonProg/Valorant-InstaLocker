@@ -7,9 +7,6 @@ Valorant InstaLocker is a python scipt to instantly lock your main or favorite a
 
 - if you dont have all agent but want to fix that, download the python script (gui.py) and change by your self the positions of the agents in the fonctions StretchedAgentPick() or NotStretchedAgentPick(), the first one if you play in 1440x1080 and the seconde one if you play in 1920x1080   
 
-## Program is not affliated with Riot Games
-## Dont be Afraid "Riot Vanguard" will not detect it, the app just Emulate your mouse !
-
 ## Some Fix about Windows Security
 
 Windows will maybe tell you the file is supscious, to fix that you just have to :
@@ -26,6 +23,8 @@ Windows will maybe tell you the file is supscious, to fix that you just have to 
 
 After that you will able to open the application.
 - If you dont trust me, like if you think that a virus, trojan, backdoor or someting like that go read the code on the github repo (guy.py) and compile it your self =)
+
+Dont be Afraid,"Riot Vanguard" will not detect the app, because it's just Emulating your mouse !
 
 ## Features
 
