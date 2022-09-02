@@ -5,7 +5,7 @@ Valorant InstaLocker is a python scipt to instantly lock your main or favorite a
 
 ## YOU HAVE TO UNLOCK ALL AGENTS IF YOU WANT TO USE IT NORMALLY !
 
-If you dont have all agent but want to fix that, 
+If you dont have all agent but want to use it, 
 - download the python script (gui.py) 
 - change by your self the positions of the agents in the fonctions StretchedAgentPick() or NotStretchedAgentPick(), the first one if you play in 1440x1080 and the seconde one if you play in 1920x1080   
 
