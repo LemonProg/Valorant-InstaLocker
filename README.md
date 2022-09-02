@@ -73,7 +73,7 @@ To run Valorant InstaLocker, you just have to search it in the windows menu or :
 
 ## Other Project
 
-Valorant BC is a background changer for the main menu.
+Valorant BC is a background changer for the main menu :
 
 <p align="center">
     https://github.com/LemonProg/Valorant-BC
