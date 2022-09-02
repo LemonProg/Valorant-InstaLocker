@@ -23,7 +23,7 @@ Windows will maybe tell you the file is supscious, to fix that you just have to 
 ![Windows Security Image p2](https://online-hoster.000webhostapp.com/Images/../uploads/16619861498500188741391768775.png)
 
 After that you will able to open the application.
-- If you dont trust me, like if you think that a virus, trojan, backdoor or someting like that go read the code on the github repo (guy.py)
+- If you dont trust me, like if you think that a virus, trojan, backdoor or someting like that go read the code on the github repo (guy.py) and compile it your self =)
 
 ## Features
 
