@@ -29,7 +29,7 @@ After that you will able to open the application.
 
 - Instalock before other People
 - Adaptive Resolution
-- Easy Download and Instalation
+- Easy Download and Installation
 - Very Simple to use
 
 ## Installation Steps
