@@ -72,7 +72,7 @@ To run Valorant InstaLocker, you just have to search it in the windows menu or :
 - 4/ Press F3 to stop it (the app stay open)
 ### That's all !
     
-## More Customisation
+## More Customization
 
 If you download the python version (gui.py) you can change the click sound of the button :
     
