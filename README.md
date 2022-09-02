@@ -68,4 +68,4 @@ To run Valorant InstaLocker, you just have to search it in the windows menu or :
 - 2/ Select your favorite agent and press "OK"
 - 3/ Press F2 on your keyboard to enable the Instalock
 - 4/ Press F3 to stop it (the app stay open)
-That it !
+### That's all !
