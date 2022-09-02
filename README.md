@@ -71,6 +71,20 @@ To run Valorant InstaLocker, you just have to search it in the windows menu or :
 - 3/ Press F2 on your keyboard to enable the Instalock
 - 4/ Press F3 to stop it (the app stay open)
 ### That's all !
+    
+## More Customisation
+
+If you download the python version (gui.py) you can change the click sound of the button :
+    
+- download any sound in "MP3"
+- Use my website to upload your sound : https://online-hoster.000webhostapp.com/ (i wrote in french but i will explain in english here)
+- Click on "Videos", add your sound, then click on "Envoyer"
+- Press "Copie" to copy it (you can lisen it as well)
+- Then replace the older by paste it in the variable "path"
+- That will work now !
+ when you click the button if you have a latency with the audio you shouldn't use the website and just indicate you file path in the variable 
+(sorry my website is a ugly but it work so...) 
+ 
 ## Authors
 
 - [@LEMON シ](https://github.com/LemonProg)
