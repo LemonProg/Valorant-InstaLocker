@@ -7,12 +7,6 @@ Valorant InstaLocker is a python scipt to instantly lock your main or favorite a
 
 ## Program is not affliated with Riot Games
 ## Dont be Afraid "Riot Vanguard" will not detect it, the app just Emulate your mouse !
-## Features
-
-- Instalock before other People
-- Adaptive Resolution
-- Easy Download and Instalation
-- Very Simple to use
 
 ## Some Fix about Windows Security
 
@@ -30,6 +24,12 @@ Windows will maybe tell you the file is supscious, to fix that you just have to 
 After that you will able to open the application.
 - If you dont trust me, like if you think that a virus, trojan, backdoor or someting like that go read the code on the github repo (guy.py)
 
+## Features
+
+- Instalock before other People
+- Adaptive Resolution
+- Easy Download and Instalation
+- Very Simple to use
 
 ## Installation Steps
 
