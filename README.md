@@ -1,5 +1,5 @@
 
-# Valorant InstaLocker
+# Valorant InstaLocker (NOT UP TO DATE FOR THE MOMENT, because riot released a new agent)
 
 Valorant InstaLocker is a python scipt to instantly lock your main or favorite agent.
 
